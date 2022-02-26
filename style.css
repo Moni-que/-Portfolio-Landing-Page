@@ -46,7 +46,7 @@
     color: white;
 }
 a:hover{
-    background-color: #e4e4ef;
+    background-color: #fE594E;
 }
 
 .me img{
@@ -81,22 +81,25 @@ a:hover{
     margin-bottom: 10px;
 }
 .second-section{
-    text-align: center;
-    background-color: #f07b7b;
+    /* text-align: center; */
+    background-color: #404267;
+    color: white;
+    /* margin-left: 20px; */
+    padding: 30px;
     /* gap: 20px; */
 }
 .second-section h2{
-    padding: 30px;
+    /* padding: 30px; */
 }
-.second-section p{
+/* .second-section p{
     padding: 10px;
-}
+} */
 .second-section ol li{
     padding: 10px;
 }  
 
 .second-section ol li a{
-    color: blue;
+    color: white;
     text-decoration: none;
     /* margin: 10px; */
 }
