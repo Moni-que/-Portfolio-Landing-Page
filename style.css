@@ -62,6 +62,20 @@ a:hover{
     /* align-items: center; */
 }
 
+.education{
+    margin-top: 250px;
+    margin-left: 60px;
+}
+.education h2{
+    margin-bottom: 10px;
+}
+.education h4{
+    margin-bottom: 10px;
+}
+.education p{
+    margin-bottom: 10px;
+}
+
 .cats{
     display: flex;
 }
