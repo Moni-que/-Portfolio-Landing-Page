@@ -87,13 +87,17 @@ a:hover{
     /* margin-left: 20px; */
     padding: 30px;
     /* gap: 20px; */
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
 }
-.second-section h2{
-    margin: 20px;
-} 
+.ordered-list{
+    text-align: left;
+}
 .second-section p{
-    color: black;
-} 
+    color: white;
+    padding: 8px;
+}
 .second-section ol li{
     padding: 10px;
 }  
