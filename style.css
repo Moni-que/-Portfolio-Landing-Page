@@ -45,7 +45,7 @@ a:hover{
     background-color: #f07b7b;
 }
 
-.sassy{
+/* .sassy{
     height: 300px;
     border-radius: 4%;
     margin-left: 50px;
@@ -56,6 +56,22 @@ a:hover{
     border-radius: 4%;
     margin-left: 130px;
     margin-top: 100px;
+} */
+.cats{
+    display: flex;
+}
+.image-1{
+    margin: 52px;
+    text-align: center;
+}
+.image-1 p{
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.cats img{
+    height: 300px;
+    border-radius: 5%;
 }
 .first-section{
     background-color: #e4e4ef;
