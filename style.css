@@ -61,6 +61,11 @@ a:hover{
     display: flex;
     /* align-items: center; */
 }
+.name{
+    color: blue;
+    font-size: larger;
+    font-weight: bolder;
+}
 
 .education{
     margin-top: 250px;
