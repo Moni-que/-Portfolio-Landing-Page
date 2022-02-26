@@ -46,7 +46,7 @@
     color: white;
 }
 a:hover{
-    background-color: #f07b7b;
+    background-color: #e4e4ef;
 }
 
 .me img{
@@ -82,16 +82,17 @@ a:hover{
 }
 .second-section{
     text-align: center;
+    background-color: #f07b7b;
     /* gap: 20px; */
 }
 .second-section h2{
-    margin: 10px;
+    padding: 30px;
 }
 .second-section p{
-    margin: 10px;
+    padding: 10px;
 }
 .second-section ol li{
-    margin: 10px;
+    padding: 10px;
 }  
 
 .second-section ol li a{
