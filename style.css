@@ -3,13 +3,22 @@
     margin: 0;
     box-sizing: border-box;
 }
+.section-1{
+    background-color: #201e45;
+    color: white;
+}
+.section-1 h1{
+    margin-left: 30px;
+    /* margin-top: 20px; */
+    padding-top: 10px;
+}
 
 .nav{
     display: flex;
     text-align: center;
     gap: 30px;
     flex-direction: column;
-    background-color: #201e45;
+    /* background-color: #201e45; */
     padding-bottom: 24px;
 }
 .nav ul{
@@ -23,7 +32,7 @@
 .nav ul li{
     list-style: none;
     display: inline-block;
-    margin-top: 4%;
+    /* margin-top: 4%; */
 }
 
 .nav ul li a{
