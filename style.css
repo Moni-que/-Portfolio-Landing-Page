@@ -49,6 +49,13 @@ a:hover{
     background-color: #f07b7b;
 }
 
+.me img{
+    border-radius: 100%;
+    height: 80vh;
+    /* border: 20px solid red; */
+    margin-left: 80px;
+    margin-top: 30px;
+}
 
 .cats{
     display: flex;
