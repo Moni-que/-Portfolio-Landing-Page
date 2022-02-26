@@ -80,6 +80,25 @@ a:hover{
 .education p{
     margin-bottom: 10px;
 }
+.second-section{
+    text-align: center;
+    /* gap: 20px; */
+}
+.second-section h2{
+    margin: 10px;
+}
+.second-section p{
+    margin: 10px;
+}
+.second-section ol li{
+    margin: 10px;
+}  
+
+.second-section ol li a{
+    color: blue;
+    text-decoration: none;
+    /* margin: 10px; */
+}
 
 .cats{
     display: flex;
