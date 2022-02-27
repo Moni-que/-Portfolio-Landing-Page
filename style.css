@@ -61,6 +61,11 @@ a:hover{
     display: flex;
     /* align-items: center; */
 }
+.belowimg{
+    margin-left: 120px;
+    margin-top: 50px;
+    text-align: center;
+}
 .name{
     color: blue;
     font-size: larger;
@@ -68,7 +73,7 @@ a:hover{
 }
 
 .education{
-    margin-top: 250px;
+    margin-top: 50px;
     margin-left: 60px;
 }
 .education h2{
