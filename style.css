@@ -145,7 +145,11 @@ a:hover{
     height: 300px;
     border-radius: 5%;
 }
+.forth-section{
+    text-align: center;
+}
 .forth-section img{
     height: 3vh;
 }
+
 
