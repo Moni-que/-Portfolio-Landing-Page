@@ -111,6 +111,9 @@ a:hover{
     background-color: #e4e4ef;
     text-align: center;
 }
+.third-section h2{
+    padding: 20px;
+}
 
 .cats{
     display: flex;
