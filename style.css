@@ -163,5 +163,12 @@ a:hover{
 .icons ul li{
     list-style: none;
 }
+.last-part{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    background-color: #201e45;
+    color: white;
+}
 
 
