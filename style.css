@@ -151,5 +151,17 @@ a:hover{
 .forth-section img{
     height: 3vh;
 }
+.forth-section h3{
+    padding: 20px;
+}
+.forth-section p{
+    padding: 10px;
+}
+.icons ul li a{
+    text-decoration: none;
+}
+.icons ul li{
+    list-style: none;
+}
 
 
