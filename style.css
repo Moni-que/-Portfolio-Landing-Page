@@ -13,7 +13,6 @@
 }
 .section-1 h1{
     margin-left: 30px;
-    /* margin-top: 20px; */
     padding-top: 10px;
 }
 
@@ -22,21 +21,17 @@
     text-align: center;
     gap: 30px;
     flex-direction: column;
-    /* background-color: #201e45; */
     padding-bottom: 24px;
 }
 .nav ul{
     text-align: center;
     flex-direction: row;
     margin-left: 50%;
-
-
 }
 
 .nav ul li{
     list-style: none;
     display: inline-block;
-    /* margin-top: 4%; */
 }
 
 .nav ul li a{
@@ -52,14 +47,11 @@ a:hover{
 .me img{
     border-radius: 100%;
     height: 80vh;
-    /* border: 20px solid red; */
     margin-left: 80px;
     margin-top: 30px;
 }
 .me{
-    /* align-items: center; */
     display: flex;
-    /* align-items: center; */
 }
 .belowimg{
     margin-left: 120px;
@@ -76,40 +68,30 @@ a:hover{
     margin-top: 50px;
     margin-left: 60px;
     text-align: center; 
-    /* padding: 10px; */
 } 
 .education h2{
-    /* margin-bottom: 10px; */
     padding: 10px;
 }
 .education h4{
-    /* margin-bottom: 10px; */
     padding: 10px;
 }
 .education p{
-    /* margin-bottom: 10px; */
     padding: 10px;
 }
 .my-education{
     margin-top: 150px;
 }
 .second-section{
-    /* text-align: center; */
     background-color: #404267;
     color: white;
-    /* margin-left: 20px; */
     padding: 30px;
-    /* gap: 20px; */
     display: flex;
-    /* text-align: center; */
-    /* justify-content: space-around; */
 }
 .second-section h2{
     text-align: center;
     font-size: 80px;
 }
 .second-section-1{
-    /* text-align: center; */
     justify-content: space-around;
     display: flex;
     padding-left: 300px;
@@ -131,7 +113,6 @@ a:hover{
 .second-section ol li a{
     color: white;
     text-decoration: none;
-    /* margin: 10px; */
 }
 .fun{
     background-color: pink;
