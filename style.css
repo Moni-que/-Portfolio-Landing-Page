@@ -15,7 +15,6 @@
     margin-left: 30px;
     padding-top: 10px;
 }
-
 .nav{
     display: flex;
     text-align: center;
@@ -28,12 +27,10 @@
     flex-direction: row;
     margin-left: 50%;
 }
-
 .nav ul li{
     list-style: none;
     display: inline-block;
 }
-
 .nav ul li a{
     padding: 10px;
     padding: 14px 16px;
@@ -63,7 +60,6 @@ a:hover{
     font-size: larger;
     font-weight: bolder;
 }
-
 .education{
     margin-top: 50px;
     margin-left: 60px;
@@ -84,32 +80,24 @@ a:hover{
 .second-section{
     background-color: #404267;
     color: white;
-    padding: 30px;
     display: flex;
+    align-items: center;
+    justify-content: space-around;
 }
 .second-section h2{
-    text-align: center;
-    font-size: 80px;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
 }
 .second-section-1{
-    justify-content: space-around;
-    display: flex;
-    padding-left: 300px;
-}
-.ordered-list{
-    text-align: left;
+    margin: 50px;
 }
 .second-section p{
     color: white;
 }
-.second p{
-    margin-top: 100px;
-    font-size: 30px;
-}
 .second-section ol li{
     padding: 10px;
 }  
-
 .second-section ol li a{
     color: white;
     text-decoration: none;
@@ -136,7 +124,6 @@ a:hover{
 .third-section h2{
     padding: 20px;
 }
-
 .cats{
     display: flex;
 }
@@ -149,7 +136,6 @@ a:hover{
     font-weight: bolder;
     margin-top: 30px;
 }
-
 .cats img{
     height: 300px;
     border-radius: 5%;
