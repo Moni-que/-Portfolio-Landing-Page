@@ -6,6 +6,7 @@
 .first-section{
     background-color: #e4e4ef;
     padding-bottom: 30px;
+    border-bottom: solid pink 10px;
 }
 .section-1{
     background-color: #201e45;
@@ -21,6 +22,7 @@
     gap: 30px;
     flex-direction: column;
     padding-bottom: 24px;
+    border-bottom: solid pink 10px;
 }
 .nav ul{
     text-align: center;
@@ -80,23 +82,31 @@ a:hover{
 .second-section{
     background-color: #404267;
     color: white;
+    text-align: center;
+}
+.dark-blue{
     display: flex;
-    align-items: center;
-    justify-content: space-around;
+    justify-content: space-evenly;
+}
+.second-section-1 img{
+    border-radius: 2%;
+    margin-top: 150px;
 }
 .second-section h2{
     font-size: 40px;
     font-family: Arial, Helvetica, sans-serif;
-    margin: 20px;
+    padding: 40px;
 }
 .second-section-1{
-    margin: 50px;
+    text-align: start;
 }
-.second-section p{
-    color: white;
+.para{
+    padding: 10px;
+    font-size: 20px;
+    color: pink;
 }
 .second-section ol li{
-    padding: 10px;
+    padding: 5px;
 }  
 .second-section ol li a{
     color: white;
@@ -106,7 +116,6 @@ a:hover{
     background-color: pink;
     display: flex;
     justify-content: space-around;
-    margin: 20px;
 }
 .second-section-2{
     text-align: center;
@@ -120,15 +129,16 @@ a:hover{
 .third-section{
     background-color: #e4e4ef;
     text-align: center;
+
 }
 .third-section h2{
     padding: 20px;
 }
 .cats{
     display: flex;
+    justify-content: space-around;
 }
 .image-1{
-    margin: 52px;
     text-align: center;
 }
 .image-1 p{
@@ -137,11 +147,12 @@ a:hover{
     margin-top: 30px;
 }
 .cats img{
-    height: 300px;
+    height: 130px;
     border-radius: 5%;
 }
 .forth-section{
     text-align: center;
+    border-top:  solid 1px #201e45;
 }
 .forth-section img{
     height: 3vh;
@@ -164,6 +175,7 @@ a:hover{
     padding: 10px;
     background-color: #201e45;
     color: white;
+    border-top: solid pink 10px;
 }
 
 
